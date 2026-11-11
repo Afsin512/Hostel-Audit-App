@@ -1,0 +1,6 @@
+device,active_w,standby_w,always_plugged,occupancy_linked
+Ceiling fan,60,0.0,False,True
+Light,18,0.0,True,True
+Laptop,45,1.0,False,False
+Phone charger,5,0.3,True,False
+Kettle,1500,0.0,False,False
